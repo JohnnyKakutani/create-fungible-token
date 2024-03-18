@@ -1,0 +1,8 @@
+Step 1: Create a new wallet
+
+Step 2: Create and upload metadata.
+
+Step 3: Mint Tokens.
+
+npm install @solana/web3.js @metaplex-foundation/umi @metaplex-foundation/mpl-token-metadata @metaplex-foundation/umi-bundle-defaults @metaplex-foundation/mpl-candy-machine bs58
+
